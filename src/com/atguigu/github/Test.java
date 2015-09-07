@@ -5,7 +5,7 @@ public class Test {
 	public static void main(String[] args) {
 		System.out.println("lz-1");
 		System.out.println("lz-2");
-		system.out.println("github -3");
+		System.out.println("github -3");
 	}
 
 }
