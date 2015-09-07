@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("lz-1");
 		System.out.println("lz-2");
 		System.out.println("github -4");
+		System.out.println("local -5");
 	}
 
 }
